@@ -12,3 +12,5 @@ Add execution permission to the script
 
 Execute the script
 # /bin/bash DrupalInstallOnAWS.bash
+
+Then point the domain to server's IP and access the domain from the browser.
